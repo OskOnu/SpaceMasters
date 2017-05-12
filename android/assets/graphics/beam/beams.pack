@@ -1,0 +1,48 @@
+
+beams.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+beam3brightblue
+  rotate: false
+  xy: 1, 27
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+beam3yellowgreen
+  rotate: false
+  xy: 56, 39
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+beam2blue
+  rotate: false
+  xy: 106, 82
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+beam1blue
+  rotate: false
+  xy: 1, 1
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+beam1red
+  rotate: false
+  xy: 30, 5
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+beam2red
+  rotate: false
+  xy: 106, 51
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+

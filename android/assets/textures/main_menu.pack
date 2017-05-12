@@ -1,0 +1,124 @@
+
+main_menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menu_frame
+  rotate: false
+  xy: 1, 786
+  size: 1665, 1162
+  orig: 1665, 1162
+  offset: 0, 0
+  index: -1
+option_button_up
+  rotate: false
+  xy: 1, 570
+  size: 1374, 214
+  orig: 1374, 214
+  offset: 0, 0
+  index: -1
+invitation_popup
+  rotate: false
+  xy: 1, 409
+  size: 1321, 159
+  orig: 1321, 159
+  offset: 0, 0
+  index: -1
+option_button_down
+  rotate: false
+  xy: 1, 259
+  size: 1309, 148
+  orig: 1309, 148
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 1668, 1692
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+facebook
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 1668, 1434
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+rank
+  rotate: false
+  xy: 259, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+button_down
+  rotate: false
+  xy: 1668, 1176
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+sound-on
+  rotate: false
+  xy: 517, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+trolley
+  rotate: false
+  xy: 1668, 918
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+button_empty
+  rotate: false
+  xy: 775, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+sound-off
+  rotate: false
+  xy: 1033, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+retry
+  rotate: false
+  xy: 1377, 528
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+list
+  rotate: false
+  xy: 1668, 660
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 1635, 402
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+info
+  rotate: false
+  xy: 1324, 270
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

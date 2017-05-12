@@ -1,0 +1,47 @@
+
+player_ships.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ship2red
+  rotate: false
+  xy: 1, 228
+  size: 398, 225
+  orig: 398, 225
+  offset: 0, 0
+  index: -1
+ship2blue
+  rotate: false
+  xy: 1, 1
+  size: 398, 225
+  orig: 398, 225
+  offset: 0, 0
+  index: -1
+ship1red
+  rotate: false
+  xy: 401, 221
+  size: 182, 232
+  orig: 182, 232
+  offset: 0, 0
+  index: -1
+ship1blue
+  rotate: false
+  xy: 585, 221
+  size: 182, 232
+  orig: 182, 232
+  offset: 0, 0
+  index: -1
+ship3blue
+  rotate: false
+  xy: 401, 115
+  size: 168, 104
+  orig: 168, 104
+  offset: 0, 0
+  index: -1
+ship3red
+  rotate: false
+  xy: 769, 349
+  size: 168, 104
+  orig: 168, 104
+  offset: 0, 0
+  index: -1
